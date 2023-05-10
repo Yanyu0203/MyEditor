@@ -7,6 +7,6 @@ I wrote the code but creator is here: https://viewsourcecode.org/snaptoken/kilo/
 
 Please run this program under Linux with make.
 
-You can also download and run .exe directly. But sometimes it may no works.
+You can also download and run .exe directly. But sometimes it won't works.
 
 This program is only for study.

@@ -1,9 +1,7 @@
 # MyEditor
 An personal editor written in C. 
 
-This program was developed following https://viewsourcecode.org/snaptoken/kilo/index.html
-
-I wrote the code but creator is here: https://viewsourcecode.org/snaptoken/kilo/index.html
+This program was developed following [THIS](https://viewsourcecode.org/snaptoken/kilo/index.html)
 
 Please run this program under Linux with make.
 
